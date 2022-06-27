@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/week6/app/src/main/res/drawable/background_radius.xml" value="0.2115" />
+        <entry key="..\:/week6/app/src/main/res/drawable/background_reduce.xml" value="0.1905" />
+        <entry key="..\:/week6/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.196" />
+        <entry key="..\:/week6/app/src/main/res/drawable/image_reduce.xml" value="0.3625" />
+        <entry key="..\:/week6/app/src/main/res/drawable/normal_reduce.xml" value="0.354" />
+        <entry key="..\:/week6/app/src/main/res/layout/activity_main.xml" value="0.40202702702702703" />
+        <entry key="..\:/week6/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2115" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
